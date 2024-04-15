@@ -48,10 +48,12 @@ footer {
   width: 110px;
   padding: 5px;
   margin: 5px 0 10px 5px;
+  border-radius: 5px;
 }
 
 footer a {
   text-decoration: none;
+  text-transform: capitalize;
 }
 
 h3 {
